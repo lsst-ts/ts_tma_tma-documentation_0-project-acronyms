@@ -30,3 +30,4 @@ This repo contains the acronyms for the project.
 | PI      | Pier                                                                             |
 | CBT     | Cabinet                                                                          |
 | iu      | internal units                                                                   |
+| NSV     | Network Shared Variable                                                          |
