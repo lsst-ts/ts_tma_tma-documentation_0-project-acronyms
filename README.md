@@ -1,6 +1,6 @@
 # Project Acronyms
 
-This repo contains the acronyms for the project.
+This repo contains the acronyms for the tma project.
 
 | Acronym | Meaning                                                                               |
 | ------- | --------------------------------------------------------------------------------      |
